@@ -19,15 +19,13 @@ const About = () => {
           <Avatar src="hfest_avatar_2.jpg" />
         </div>
         <p>
-          Hi, I'm Anurag Hazra, a self-taught passionate FrontEnd developer from
-          India, currently working at{' '}
-          <a className="about__link" href="https://razorpay.com">
-            Razorpay
+          Hi, I'm Mike Niko, a self-taught passionate FrontEnd developer from
+          USA, currently working at{' '}
+          <a className="about__link" href="https://misha76452.com">
+            Misha76452
           </a>{' '}
-          as a FrontEnd engineer. I've been building stuff on the web since when
-          I was in 6th standard, I've made countless side projects and I also
-          posses magical powers of using react to build delightful user
-          interfaces.
+          as a FrontEnd engineer. I've been building on the web since when
+          I was in 6th grade, I've made countless side projects.
           <br />
           <br />I also love doing <b>open source</b> development, I actively
           maintain various notable open source projects with over, <br />
